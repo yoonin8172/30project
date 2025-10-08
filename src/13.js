@@ -25,5 +25,5 @@ wolf.onclick = function () {
     }
 };
 homebutton.onclick = function () {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 };

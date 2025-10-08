@@ -22,6 +22,6 @@ text22.onclick = function () {
 }
 
 homebutton22.onclick = function () {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 }
 

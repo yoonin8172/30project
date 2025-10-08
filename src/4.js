@@ -25,5 +25,5 @@ const initialCloud = cloudContainer.querySelector(".cloud");
 initialCloud.onclick = addCloud;
 
 homebutton.onclick = function () {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 }

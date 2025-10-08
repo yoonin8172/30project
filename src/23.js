@@ -15,5 +15,5 @@ emoji23.onclick = function () {
 }
 
 homebutton23.onclick = function () {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 }

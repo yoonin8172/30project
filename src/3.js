@@ -8,6 +8,6 @@ arrow.addEventListener('click', () => {
 });
 
 homebutton.addEventListener('click', () => {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 });
 

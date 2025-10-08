@@ -26,5 +26,5 @@ for (let i = 1; i <= 10; i++) {
 }
 
 homebutton.onclick = function () {
-    window.location.href = "../0_index.html";
+    window.location.href = "../index.html";
 }
